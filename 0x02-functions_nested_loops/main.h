@@ -1,4 +1,5 @@
-int add(int a, int b)
-{
-	return(a+b);
-}
+#ifndef MAIN_H
+#define MAIN_H
+char _putchar(char c);
+
+#endif
